@@ -93,6 +93,12 @@
       "url": "https://confident-carson-0be348.netlify.app/"
     },
     {
+      "title": "Maze Game",
+      "category": "Maze Game built with JavaScript",
+      "image": "4.png",
+      "url": "https://projects-sooty.now.sh/"
+    },
+    {
       "title": "Hangman",
       "category": "Hangman Game built with ReactJS",
       "image": "2.png",
