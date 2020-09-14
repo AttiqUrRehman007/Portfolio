@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Attiq Ur Rehman",
+    "occupation": "Computer Scientist && ReactJS Developer",
+    "description": "I'm a person seeking for excellence in field of Computer Science and IT",
+    "image": "1.jpeg",
+    "bio": "My name is Attiq, I am a Computer Scientist, Experienced Javascript developer with expertise in the frameworks of ReactJS - a powerful framework to build interactive UI's and React-Native - JS framework ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "attiqman007@gmail.com",
+    "phone": "+92 3108001007",
+    "address": {
+      "city": "Islamabad",
+      "state": "Pakistan",
+      "zip": "246762"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/attiqman007",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/attiq-ur-rehman-71b511157/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/attiq_khan7/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AttiqUrRehman007",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Government Post Graduate College Attock",
+        "degree": "Intermediate",
+        "graduated": "July 2017"
+      },
+      {
+        "school": "Kohat University of Science and Technology",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "July 2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%",
+        "src": "https://img.icons8.com/ultraviolet/40/000000/react.png"
+      },
+      {
+        "name": "JavaScript",
+        "level": "87%",
+        "src": "https://img.icons8.com/color/40/000000/javascript.png"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%",
+        "src": "https://img.icons8.com/color/40/000000/html-5.png"
+      },
+      {
+        "name": "CSS",
+        "level": "95%",
+        "src": "https://img.icons8.com/color/40/000000/css3.png"
+
+      },
+      {
+        "name": "Git",
+        "level": "60%",
+        "src": "https://img.icons8.com/color/40/000000/git.png"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "55%",
+        "src": "https://img.icons8.com/ios-filled/40/000000/learning.png"
+      }
+    ]
+  },
+  "portfolio": {
+  "projects": [
+    {
+      "title": "Burger Builder",
+      "category": "Burger Builder built with React-Hooks and React-Redux",
+      "image": "1.png",
+      "url": "https://confident-carson-0be348.netlify.app/"
+    },
+    {
+      "title": "Hangman",
+      "category": "Hangman Game built with ReactJS",
+      "image": "2.png",
+      "url": "https://flamboyant-kare-c60ad8.netlify.app/"
+    },
+    {
+      "title": "ColorBoxes",
+      "category": "Color Game built with ReactJS",
+      "image": "3.png",
+      "url": "https://goofy-brown-4badd9.netlify.app/"
+    }
+  ]
+},
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I absolutely enjoy working with him. He is very good at communicating, delivers work on time and is willing to make sure the customer is satisfied with the work. I'll recommend him to anyone!",
+        "user": "Mary"
+      }, {
+        "text": "The best web developers on fiverr. They bring nothing but excellence and provide the most excellent, elegant, and complete design and development. We highly recommend them for all your web design needs. 10/10 WILL hire again",
+        "user": "Samiel"
+      }
+    ]
+  }
+}
