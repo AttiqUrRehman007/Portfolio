@@ -89,25 +89,25 @@
     {
       "title": "Burger Builder",
       "category": "Burger Builder built with React-Hooks and React-Redux",
-      "image": "1.png",
+      "image": "https://res.cloudinary.com/djdec78aj/image/upload/v1600089834/Screenshot_183_p1itgh.png",
       "url": "https://confident-carson-0be348.netlify.app/"
     },
     {
       "title": "Maze Game",
       "category": "Maze Game built with JavaScript",
-      "image": "4.png",
+      "image": "https://res.cloudinary.com/djdec78aj/image/upload/v1600089995/Screenshot_192_pbjwyn.png",
       "url": "https://projects-sooty.now.sh/"
     },
     {
       "title": "Hangman",
       "category": "Hangman Game built with ReactJS",
-      "image": "2.png",
+      "image": "https://res.cloudinary.com/djdec78aj/image/upload/v1600090150/Screenshot_189_uc8wex.png",
       "url": "https://flamboyant-kare-c60ad8.netlify.app/"
     },
     {
       "title": "ColorBoxes",
       "category": "Color Game built with ReactJS",
-      "image": "3.png",
+      "image": "https://res.cloudinary.com/djdec78aj/image/upload/v1600090251/Screenshot_190_senozj.png",
       "url": "https://goofy-brown-4badd9.netlify.app/"
     }
   ]
